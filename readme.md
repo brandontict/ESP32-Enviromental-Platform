@@ -85,3 +85,5 @@ Pre: Have Micropython installed*
 *Installation: Using Thonny or webrepl upload the python code as " main.py " . 
 
 <b>version 3</b>
+<img width="1465" height="794" alt="image" src="https://github.com/user-attachments/assets/05e25fa7-8435-4521-a1ab-8dfab2e42aed" />
+
