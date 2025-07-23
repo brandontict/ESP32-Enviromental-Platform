@@ -3,12 +3,12 @@ Full environmental monitoring via DHT22 sensors sending values to a local html s
 Features: 
 
 Dashboard Tab:
-
+<p>
 🌡️ Temperature - Live readings with status indicators
 💧 Humidity - Real-time data with range checking
 🌫️ VPD - Calculated vapor pressure deficit
 📊 Status Bar - Connection, uptime, reading count
-
+</p>
 System Tab:
 
 ⚙️ ESP32 Health - Memory usage, CPU frequency
