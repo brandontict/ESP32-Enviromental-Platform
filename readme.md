@@ -86,4 +86,8 @@ Pre: Have Micropython installed*
 
 <b>version 3</b>
 <img width="1465" height="794" alt="image" src="https://github.com/user-attachments/assets/05e25fa7-8435-4521-a1ab-8dfab2e42aed" />
+<img width="1259" height="460" alt="image" src="https://github.com/user-attachments/assets/4191cb0c-7b68-485b-8e5a-01ef138b054f" />
+<img width="1270" height="593" alt="image" src="https://github.com/user-attachments/assets/a144a8c2-c5b7-4f31-b79f-0950358fead9" />
+<img width="1286" height="647" alt="image" src="https://github.com/user-attachments/assets/df6cd405-adc8-43f0-9df1-f65fbb2c6acb" />
+
 
