@@ -1,4 +1,11 @@
-Full environmental monitoring via DHT22 sensors sending values to a local html server . This python script is for ESP32 device running MicroPython. 
+ Environmental monitoring via DHT22 sensor sending Tempature and Humiditity values to a local html server . This python script is for a ESP32 device already running MicroPython. 
+
+Joint effort between Claude and I. 
+
+Prerequisites: Micropython installed on ESP32
+               DHT22 sensor connected to GPIO 4  
+
+*Installation: Using Thonny or webrepl upload the python code as " main.py " . 
 
 Features: 
 
@@ -76,13 +83,6 @@ Google Account → Security → App passwords
 Select "Mail" and generate password
 Use this password, NOT your regular Gmail password!
 
-
-Joint effort between Claude and I. 
-
-Pre: Have Micropython installed*
-     DHT22 sensor connected *
-
-*Installation: Using Thonny or webrepl upload the python code as " main.py " . 
 
 <b>version 3</b>
 <img width="1465" height="794" alt="image" src="https://github.com/user-attachments/assets/05e25fa7-8435-4521-a1ab-8dfab2e42aed" />
