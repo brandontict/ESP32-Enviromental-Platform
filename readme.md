@@ -5,7 +5,10 @@ Joint effort between Claude and I.
 Prerequisites: Micropython installed on ESP32
                DHT22 sensor connected to GPIO 4  
 
-*Installation: Using Thonny or webrepl upload the python code as " main.py " . 
+*Installation: Use Thonny or webrepl upload the code as " main.py " inside the root folder. 
+
+Coming Soon: 
+Built in VPN / Tunnel 
 
 Features: 
 
