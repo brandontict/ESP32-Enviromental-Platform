@@ -8,7 +8,7 @@ Prerequisites: Micropython installed on ESP32
 *Installation: Use Thonny or webrepl upload the code as " main.py " inside the root folder. 
 
 Coming Soon: 
-Built in VPN / Tunnel 
+Built in VPN / Tunnel ( Those stuck behind a NAT ) 
 
 Features: 
 
